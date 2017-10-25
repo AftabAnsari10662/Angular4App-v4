@@ -9,6 +9,7 @@
   "author": "idc",
   "license": "ISC",
   "devDependencies": {
+    "lite-server": "^2.3.0",
     "ts-loader": "^3.0.5",
     "typescript": "^2.5.3",
     "webpack": "^3.8.1"
